@@ -27,7 +27,9 @@ judete = {
 orase = {
     "BV": "Rasnov",
     "IS": "Belcesti",
-    "BT": "Flamanzi"
+    "BT": "Flamanzi",
+    "BV": "Brasov",
+    "BV": "Sacele"
 }
 
 # print'em
