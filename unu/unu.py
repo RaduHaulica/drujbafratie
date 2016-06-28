@@ -24,6 +24,14 @@ judete = {
     "Vaslui": "VS"
 }
 
+orase = {
+    "BV": "Rasnov",
+    "IS": "Belcesti",
+    "BT": "Flamanzi",
+    "BV": "Brasov",
+    "BV": "Sacele"
+}
+
 # print'em
 print "-" * 10
 print "Cities in BT :", orase["BT"]
