@@ -20,7 +20,8 @@ judete = {
     "Bucuresti": "B",
     "Brasov": "BV",
     "Constangeles": "CT",
-    "Botosani": "BT"
+    "Botosani": "BT",
+    "Vaslui": "VS"
 }
 
 orase = {
@@ -36,7 +37,7 @@ print "-" * 10
 print "Iasi are codul ", judete["Iasi"]
 print "Orase din Brasov :", orase[judete["Brasov"]]
 
-#toate codurile
+# toate codurile
 print "_" * 10
 for judet, cod in judete.items():
     print "%s are codul %s." % (judet, cod)
